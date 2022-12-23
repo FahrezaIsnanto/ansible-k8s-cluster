@@ -1,0 +1,10 @@
+[masters]
+master.dc.com
+
+[workers]
+nodeone.dc.com
+nodetwo.dc.com
+nodethree.dc.com
+
+[all:vars]
+ansible_user=root
